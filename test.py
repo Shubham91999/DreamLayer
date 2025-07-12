@@ -1,0 +1,1 @@
+from diffusers.pipelines.pipeline_utils import DiffusionPipeline
